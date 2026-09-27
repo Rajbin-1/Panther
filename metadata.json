@@ -1,0 +1,6 @@
+{
+  "name": "Panther Agent",
+  "description": "Foundation of a lightweight, low-resource local desktop agent for Windows with controlled action execution and deterministic verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
